@@ -2,5 +2,15 @@
 using namespace std;
 int main(){
 cout<<"hello world";
+int a;
+int b;
+cout<<"Enter a number";
+cin>>a;
+cout<<"Enter a number again:";
+cin>>b;
+int sum=a+b;
+cout<<sum<<endl;
+return 0;
 }
-//This is the comment from Mumbai server
+;//This is the comment from Mumbai server
+//From Stockholm
